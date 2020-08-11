@@ -10,3 +10,10 @@
 - 👨 Pronouns: he/him
 - 🤬 Fun fact: Actually, there's nothing funny about me.
 
+I'm not that much of a social media guy, but here you go:
+
+🐦[twitter][twitter]
+📷[instagram][instagram]
+
+[twitter]: https://twitter.com/itscarlosecp
+[instagram]: https://www.instagram.com/itscarlosecp/
