@@ -2,7 +2,7 @@
 
 ## I'm a computer engineering student @ University of Buenos Aires. I love web development, and that's about it. Also, I love React.
 
-- 💻 I'm currently working on some side proyects, that's why my repo is empty, for now at least.
+- 💻 I'm currently working on some side proyects, that's why my profile is empty, for now at least.
 - 🖌️ I'm currently learning ReactJS and web design overall, alongside reinforcing my knowledge of the basic front-end technolgies.
 - 🧠 I'm looking to collaborate with cool people who undestand I'm still learning the basics.
 - 📖 I'm also looking for help with my midterms and finals at college please (just kidding).
