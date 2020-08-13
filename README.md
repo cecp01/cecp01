@@ -8,7 +8,7 @@
 - 📖 I'm also looking for help with my midterms and finals at college please (just kidding).
 - 💾 Talk to me about tech, that's what I love, tech.
 - 👨 Pronouns: he/him
-- 🤬 Fun fact: Actually, there's nothing funny about me.
+- 🤬 Fun fact: Actually there's nothing funny about me.
 
 I'm not that much of a social media guy, but here you go: 🐦[twitter][twitter] **|** 📷[instagram][instagram]
 
