@@ -1,6 +1,6 @@
 ### Hi, I'm Carlos
 
-## Computer engineering student @ University of Buenos Aires. I love web development, and that's about it. Also, I love React.
+## Computer engineering student @ University of Buenos Aires. I love web development, and that's about it.
 
 - 🚧 Currently working on my website.
 - 💻 Learning ReactJS and web design overall, alongside reinforcing my knowledge of the basic front-end technologies.
