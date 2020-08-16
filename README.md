@@ -10,7 +10,7 @@
 - 👨 Pronouns: he/him
 - 🤬 Fun fact: Actually there's nothing funny about me.
 
-I'm not that much of a social media guy, but here you go: [<img align='left' alt='Twitter' width='26px' src='https://simpleicons.org/icons/twitter.svg' />][twitter][twitter] **|** 📷[instagram][instagram]
+I'm not that much of a social media guy, but here you go: [<i width='16px' src='https://simpleicons.org/icons/twitter.svg' />][twitter][twitter] **|** 📷[instagram][instagram]
 
 [twitter]: https://twitter.com/itscarlosecp
 [instagram]: https://www.instagram.com/itscarlosecp/
