@@ -9,8 +9,3 @@
 - 💾 Talk to me about tech, that's what I love, tech.
 - 👨 Pronouns: he/him
 - 🤬 Fun fact: Actually there's nothing funny about me.
-
-Follow Me: [<img alt='Twitter' width='18px' src='https://simpleicons.org/icons/twitter.svg' />][twitter] [<img alt='Instagram' width='18px' src='https://simpleicons.org/icons/instagram.svg' />][instagram]
-
-[twitter]: https://twitter.com/itscarlosecp
-[instagram]: https://www.instagram.com/itscarlosecp/
