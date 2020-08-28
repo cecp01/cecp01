@@ -8,7 +8,7 @@
 - 💾 Talk to me about tech, that's what I love, tech.
 - 🤬 Fun fact: Actually there's nothing funny about me.
 
-### I work with these technologies:
+#### 🤖 I work with these technologies:
 
 [<img align='left' alt='HTML' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' style='float: left; margin-right: 16px;'>][profile]
 [<img align='left' alt='CSS' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' style='float: left; margin-right: 16px;'>][profile]
