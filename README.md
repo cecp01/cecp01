@@ -1,12 +1,11 @@
 ### Hi, I'm Carlos
 
-## Computer engineering student @ University of Buenos Aires. I love web development, and that's about it.
+## Computer engineering student @ University of Buenos Aires. Passionate about Web Development and sharing my knowledge with others.
 
-- 🚧 Currently working on my website.
+- 🚧 Currently working on my YouTube channel.
 - 💻 Learning ReactJS and web design overall, alongside reinforcing my knowledge of the basic front-end technologies.
 - 🧠 I'm looking to collaborate with cool people who undestand I'm still learning the basics.
 - 💾 Talk to me about tech, that's what I love, tech.
-- 👨 Pronouns: he/him
 - 🤬 Fun fact: Actually there's nothing funny about me.
 
 ### I work with these technologies:
