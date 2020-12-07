@@ -2,8 +2,6 @@
 
 I'm a developer from Nicaragua, currently living in Argentina and studying computer engineering @ University of Buenos Aires. I'm passionate about development, most of all creating web user interfaces. I'm also intereste in math, science and sharing my knowledge with others.
 
-## A bit more about me:
-
 - 🚧 Currently working on my YouTube channel.
 - 🧠 I'm looking to collaborate with cool people who undestand I'm still learning.
 - 💾 Talk to me about tech, that's what I love, tech.
@@ -16,5 +14,3 @@ I'm a developer from Nicaragua, currently living in Argentina and studying compu
 - 👨‍💻 Javascript
 - ⚛️ ReactJS
 - 🐍 Python
-
-[profile]: https://github.com/itscarlosecp
