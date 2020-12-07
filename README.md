@@ -17,6 +17,4 @@ I'm a developer from Nicaragua, currently living in Argentina and studying compu
 - ⚛️ ReactJS
 - 🐍 Python
 
-[![itscarlosecp's github stats](https://github-readme-stats.vercel.app/api?username=itscarlosecp)](https://github.com/anuraghazra/github-readme-stats)
-
 [profile]: https://github.com/itscarlosecp
