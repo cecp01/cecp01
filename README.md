@@ -1,12 +1,26 @@
-### Hi, I'm Carlos
+## Hi there, I'm Carlos
 
-## Computer engineering student @ University of Buenos Aires. Passionate about Development, Science and sharing my knowledge with others.
+I'm a developer from Nicaragua, currently living in Argentina and studying computer engineering @ University of Buenos Aires. I'm passionate about development, most of all creating web user interfaces. I'm also intereste in math, science and sharing my knowledge with others.
+
+### A bit more about me:
 
 - 🚧 Currently working on my YouTube channel.
-- 💻 Learning ReactJS and Python.
 - 🧠 I'm looking to collaborate with cool people who undestand I'm still learning.
 - 💾 Talk to me about tech, that's what I love, tech.
 - 🤬 Fun fact: Actually there's nothing funny about me.
+
+### Techonlogies I work with:
+
+- 🖌️ CSS
+- 🦢 TailwindCSS
+- 👨‍💻 Javascript
+- ⚛️ ReactJS
+
+### I'm currently learning:
+
+- 🐍 Python
+- 🤖 Machine Learngin
+- 🐘 Postgresql
 
 [![itscarlosecp's github stats](https://github-readme-stats.vercel.app/api?username=itscarlosecp)](https://github.com/anuraghazra/github-readme-stats)
 
