@@ -4,7 +4,7 @@
 
 I'm a developer from Nicaragua, currently living in Argentina and studying computer engineering @ University of Buenos Aires. I would describe myself as a creative person, someone who is passionate about development, mostly web user interfaces. I'm also interested in math, science and sharing my knowledge with others.
 
-- 🚧 Learning intermediate web development. Focusing heavily in accessibility and SEO best practices with Next.js.
+- 🚧 Focusing heavily on learning accessibility and SEO best practices.
 - 🧠 I'm looking to collaborate with cool people who undestand I'm still learning.
 - 💾 Talk to me about tech, that's what I love, tech.
 - 🤬 Fun fact: Actually there's nothing funny about me.
