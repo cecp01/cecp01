@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos
 
-I'm a developer from Nicaragua, currently living in Argentina and studying computer engineering @ University of Buenos Aires. I would describe myself as a creative person, someone who is passionate about development, mostly web user interfaces. I'm also interested in math, science and sharing my knowledge with others.
+Developer from Nicaragua, currently living in Argentina and studying computer engineering @ University of Buenos Aires. I'm a creative person, someone who is passionate about text editors, CLI based applications, and just programming languages overall. I'm also starting to fall in love with core computer science concepts and I'm trying to dig a little bit more into those kinds of topics.
 
 - 🧠 I'm looking to collaborate with cool people who undestand I'm still learning.
 - 🛠️ Continuously customizing my development environment.
